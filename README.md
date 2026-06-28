@@ -1,6 +1,4 @@
-
-
-> Flutter Calculator — Assignment Submission
+ Flutter Calculator — Assignment Submission
 
 ## Architecture
 - **Pattern:** setState + Material Design 3
